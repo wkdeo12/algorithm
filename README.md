@@ -6,6 +6,6 @@
 |  1-2  |  베스트앨범     |19.03.11|  C#  |Hash| 3 |
 
 # Hackerrank_algorithms
-| Number | Problem | Date | Language | Group | Level |
+| Number | Problem | Date | Language | Level |
 |:------:|:------:|:------:|:------:|:------:|:------:| 
-|  2-1  | Correctness and the Loop Invariant|19.03.10|  C#  |Hash| 2 |
+|  2-1  | Correctness and the Loop Invariant|19.01.10|  C#  | easy |
