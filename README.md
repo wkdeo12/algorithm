@@ -10,3 +10,4 @@
 | Number | Problem | Date | Language | Level |
 |:------:|:------:|:------:|:------:|:------:|
 |  2-1  | Correctness and the Loop Invariant|19.01.10|  C#  | easy |
+|  2-2  | Two Strings|19.01.10|  C#  | easy |
