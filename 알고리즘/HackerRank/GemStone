@@ -1,0 +1,13 @@
+static int gemstones(string[] arr) 
+{
+//해쉬셋에다가 1번째 배열 집어넣음
+            HashSet<char> gem = new HashSet<char>(arr[0]);
+            //반복문돌려서 
+            for (int i = 1; i < arr.Length; i++)
+            {
+                var group = gem.Intersect(arr[i]);//교집합
+                gem = new HashSet<char>(group.ToArray());
+            }
+            return gem.Count();
+
+    }
