@@ -1,7 +1,7 @@
 # Programers_algorithms
 
-| Number | Problem | Date | Language | Group | Level || Time |
-|:------:|:------:|:------:|:------:|:------:|:------:||:------:| 
+| Number | Problem | Date | Language | Group | Level | Time |
+|:------:|:------:|:------:|:------:|:------:|:------:|:------:| 
 |  1-1  |  위장           |19.03.10|  C#  |Hash| 2 | - |
 |  1-2  |  베스트앨범     |19.03.11|  C#  |Hash| 3 | - |
 |  1-3  |  프린터     |19.03.18|  C#  |Queue| 2 | 4h |
