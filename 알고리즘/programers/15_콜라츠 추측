@@ -1,0 +1,27 @@
+public int solution(int num)
+        {
+            int count = 0;
+            long pivot = num;
+            while (true)
+            {
+                if (pivot == 1 || count > 500)
+                {
+                    break;
+                }
+                if (pivot % 2 == 0)
+                {
+                    pivot = pivot / 2;
+                }
+                else
+                {
+                    pivot = pivot * 3 + 1;
+                }
+                count++;
+            }
+
+            if (count > 500)
+            {
+                return -1;
+            }
+            return count;
+        }
