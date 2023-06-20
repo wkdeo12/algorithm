@@ -3,11 +3,11 @@
 | Number | Problem | Date | Language | Group | Level | Time |
 |:------:|:------:|:------:|:------:|:------:|:------:|:------:| 
 |  1-1  |  [위장](https://github.com/wkdeo12/algorithm/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/programers/01_%EC%9C%84%EC%9E%A5.cs)           |19.03.10|  C#  |Hash| 2 | - |
-|  1-2  |  베스트앨범     |19.03.11|  C#  |Hash| 3 | - |
-|  2-1  |  프린터     |19.03.18|  C#  |Queue| 2 | 4h |
-|  2-2  |  탑     |19.03.19|  C#  |Queue| 2 | 2h |
-|  2-3  |  기능개발     |19.03.19|  C#  |Queue,Stack| 2 | 3h |
-|  2-4  |  다리를지나는트럭     |19.03.20|  C#  |Queue| 2 | 4h |
+|  1-2  |  [베스트앨범](https://github.com/wkdeo12/algorithm/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/programers/02_BestAlbum.cs)     |19.03.11|  C#  |Hash| 3 | - |
+|  2-1  |  [프린터](https://github.com/wkdeo12/algorithm/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/programers/03_프린터.cs)     |19.03.18|  C#  |Queue| 2 | 4h |
+|  2-2  |  [탑](https://github.com/wkdeo12/algorithm/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/programers/04_탑.cs)     |19.03.19|  C#  |Queue| 2 | 2h |
+|  2-3  |  [기능개발](https://github.com/wkdeo12/algorithm/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/programers/05_기능개발).cs     |19.03.19|  C#  |Queue,Stack| 2 | 3h |
+|  2-4  |  [다리를지나는트럭](https://github.com/wkdeo12/algorithm/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/programers/06_다리를지나는트럭.cs)     |19.03.20|  C#  |Queue| 2 | 4h |
 |  3-1  |  K번째수     |19.04.01|  C#  |Sort| 1 | 1h |
 |  4-1  |  두 정수 사이의 합     |19.05.05|  C#  |??| 1 | 7m |
 |  4-2  |  서울에서 김서방찾기     |19.05.05|  C#  |??| 1 | 4m |
