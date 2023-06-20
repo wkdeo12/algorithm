@@ -10,8 +10,8 @@
 |  2-4  |  [다리를지나는트럭](https://github.com/wkdeo12/algorithm/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/programers/06_다리를지나는트럭.cs)     |19.03.20|  C#  |Queue| 2 | 4h |
 |  3-1  |  [K번째수](https://github.com/wkdeo12/algorithm/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/programers/07_K번째수.cs)     |19.04.01|  C#  |Sort| 1 | 1h |
 |  4-1  |  [두 정수 사이의 합](https://github.com/wkdeo12/algorithm/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/programers/08_%EB%91%90%20%EC%A0%95%EC%88%98%20%EC%82%AC%EC%9D%B4%EC%9D%98%20%ED%95%A9.cs)     |19.05.05|  C#  |??| 1 | 7m |
-|  4-2  |  [서울에서 김서방찾기]()     |19.05.05|  C#  |??| 1 | 4m |
-|  4-3  |  수박수박수박수박수박수? |19.05.05|  C#  |??| 1 | 3m |
+|  4-2  |  [서울에서 김서방찾기](https://github.com/wkdeo12/algorithm/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/programers/09_%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%EA%B9%80%EC%84%9C%EB%B0%A9%EC%B0%BE%EA%B8%B0)     |19.05.05|  C#  |??| 1 | 4m |
+|  4-3  |  [수박수박수박수박수박수?](https://github.com/wkdeo12/algorithm/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/programers/09_수박수박수박수박수박수?.cs) |19.05.05|  C#  |??| 1 | 3m |
 |  4-4  | 가운데 글자 가져오기       |19.05.05|  C#  |??| 1 | 3m |
 | 4-5   | 짝수와홀수      |19.05.05 |  C#  |??| 1 | 1m |
 | 4-6   | 문자열다루기기본      |19.05.05 |  C#  |??| 1 | 10m |
