@@ -16,7 +16,7 @@
 | 4-5   | [짝수와홀수](https://github.com/wkdeo12/algorithm/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/programers/13_%EC%A7%9D%EC%88%98%EC%99%80%ED%99%80%EC%88%98)      |19.05.05 |  C#  |??| 1 | 1m |
 | 4-6   | [문자열다루기기본](https://github.com/wkdeo12/algorithm/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/programers/14_%EB%AC%B8%EC%9E%90%EC%97%B4%EB%8B%A4%EB%A3%A8%EA%B8%B0%EA%B8%B0%EB%B3%B8)      |19.05.05 |  C#  |??| 1 | 10m |
 | 4-7   | [콜라츠추측](https://github.com/wkdeo12/algorithm/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/programers/15_%EC%BD%9C%EB%9D%BC%EC%B8%A0%20%EC%B6%94%EC%B8%A1)      |19.05.05 |  C#  |??| 1 | 16m |
-
+| 4-8   |       | |  C#  |??| 1 |  |
 
 
 
